@@ -1,0 +1,4 @@
+readarray ARR
+echo ${#ARR[@]}
+
+
