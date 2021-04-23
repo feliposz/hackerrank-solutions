@@ -1,0 +1,3 @@
+Regex_Pattern = '(?<![aeiouAEIOU]).'
+
+

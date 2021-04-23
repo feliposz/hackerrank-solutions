@@ -1,0 +1,2 @@
+grep -i "\bthe\b"
+

@@ -1,0 +1,2 @@
+grep -vi "\bthat\b"
+
